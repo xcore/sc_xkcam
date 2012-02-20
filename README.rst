@@ -1,7 +1,7 @@
 XCORE.com xkcam software, schematics and documentation
 .................................
 
-:Description: XMOS + Kodak image sensor decription with sensor driver, sensor control and basic image processing.
+:Description: XMOS + Kodak image sensor description with sensor driver, sensor control and basic image processing.
 
 :Status: Initial prototype.
 
